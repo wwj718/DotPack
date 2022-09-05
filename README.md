@@ -27,3 +27,6 @@ pack inspect.
  	2 seconds wait.
 	pack stopStepping.] fork.
 ```
+
+## work with dotPack device
+ref: [Squeak 与 MicroBlocks 互操作](https://wwj718.github.io/post/%E7%BC%96%E7%A8%8B/squeak-microblocks-interoperability/)
