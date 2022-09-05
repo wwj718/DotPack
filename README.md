@@ -2,8 +2,9 @@
 A dotPack simulator for Squeak.
 
 ## Install
-1. put the `dotpack-removebg.png` file to the default folder(the folder Squeak image is in).
-2. drap DotPack.st into current world (Squeak screen).
+<!--1. put the `dotpack-removebg.png` file to the default folder(the folder Squeak image is in).-->
+
+* drap DotPack.st into current world (Squeak screen).
 
 ## Usage
 ```
